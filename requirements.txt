@@ -1,0 +1,16 @@
+faiss-cpu
+rank-bm25
+transformers
+datasets
+scikit-learn
+torch
+vllm
+uvicorn
+fastapi
+requests
+sentence-transformers
+numpy
+matplotlib
+psutil
+GPUtil
+pydantic

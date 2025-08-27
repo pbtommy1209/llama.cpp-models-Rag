@@ -1,0 +1,9 @@
+{
+  "embed_model": "BAAI/bge-m3",
+  "retriever": "bm25",              
+  "alpha": 0.5,
+  "topk": 30,
+  "topk_ctx": 3,
+  "reranker": "BAAI/bge-reranker-base",
+  "ollama_model": "llama3.2:latest"
+}
